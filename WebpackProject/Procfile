@@ -1,0 +1,2 @@
+//For heroku
+web: node server.js
